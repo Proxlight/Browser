@@ -127,4 +127,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Pratyush Mishra** - [Proxlight](https://github.com/Proxlight
+- **Pratyush Mishra** - Proxlight(https://github.com/Proxlight)
