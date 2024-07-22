@@ -9,16 +9,7 @@ import re
 #Setting structure of the browser window and variable declarations.
 root = Tk()
 root.wm_title("CosmoNet web Browser ")
-root.iconbitmap('favicon.ico')
-url1='http://www.gmail.com'
-url2='http://www.yahoomail.com'
-url3='http://www.youtube.com'
-url4='http://www.facebook.com'
-url5='http://www.github.com'
-url6='http://www.linkedin.com'
-url7='http://www.firefox.com'
-url8='http://www.bing.com'
-url9='http://www.yahoo.com'
+
 
 scrollbar = Scrollbar(root)
 scrollbar.pack(side=RIGHT, fill=Y)
